@@ -12,7 +12,7 @@ import EventCard from '@/components/EventCard.vue'
 import Categories from '@/components/Categories.vue'
 
 export default {
-  name: 'Home',
+  name: 'EventList',
   components: {
     EventCard ,//register it as a child component
     Categories
