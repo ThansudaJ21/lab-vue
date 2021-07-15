@@ -7,7 +7,7 @@
 
 <script>
 export default {
-  name: 'event',
+  name: 'Catagories',
   props: {
     event: {
       type: Object,
